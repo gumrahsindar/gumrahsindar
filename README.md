@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @gumrahsindar
 - 👀 I’m interested in web development
-- 🌱 I’m currently learning JavaScript and Vue JS
+- 🌱 I’m currently learning React JS
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> gsindar@gmail.com
 
